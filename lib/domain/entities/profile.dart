@@ -6,8 +6,6 @@ class Profile {
   final List<String> skills;
   final String bio;
   final String email;
-  // final String linkedin;
-  // final String github;
   final String imageUrl;
 
   Profile({
@@ -16,8 +14,6 @@ class Profile {
     required this.skills,
     required this.bio,
     required this.email,
-    // required this.linkedin,
-    // required this.github,
     required this.imageUrl,
   });
 
