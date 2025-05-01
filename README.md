@@ -5,7 +5,7 @@ Welcome to the official repository for **[Profio]**, a cross-platform mobile app
 ## 📦 Tech Stack
 
 - **Flutter**: 3.29.3
-- **Dart**: [your Dart SDK version]
+- **Dart**: 3.7.2
 
 ---
 
